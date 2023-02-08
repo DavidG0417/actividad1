@@ -4,3 +4,5 @@ en una casa o en un apartamento:
 -cama
 -mesa de noche
 -habitacion simple
+-licuadora
+-sillas
