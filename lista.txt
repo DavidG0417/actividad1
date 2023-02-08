@@ -1,0 +1,6 @@
+Hola el dia de hoy voy a crear una lista de cosas que pueden estar
+en una casa o en un apartamento:
+-televisor
+-cama
+-mesa de noche
+-habitacion simple
