@@ -8,3 +8,6 @@ en una casa o en un apartamento:
 -sillas
 -comedor
 -sala
+-armario
+-nevera
+-terraza
