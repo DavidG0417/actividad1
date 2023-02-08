@@ -6,3 +6,5 @@ en una casa o en un apartamento:
 -habitacion simple
 -licuadora
 -sillas
+-comedor
+-sala
